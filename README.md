@@ -1,0 +1,1 @@
+# trigger-alerts-from-alert-manager-promethus-to-slack-channel
